@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo solamente de ejemplo 
+=======
+Hola no me gusto tu cambio, intenta este porfas
+>>>>>>> c47d34f352a79fcb08405ba98d652082b5cb10e8
